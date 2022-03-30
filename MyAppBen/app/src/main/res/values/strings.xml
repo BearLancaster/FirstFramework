@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAppBen</string>
+    <string name="true_button">True</string>
+    <string name="False_button">False</string>
+    <string name="Question_1">Question_1</string>
+    <string name="Question_2">Question_2</string>
+    <string name="Question_3">Question_3</string>
+    <string name="Question_4">Question_4</string>
+    <string name="incorrect">incorrect</string>
+    <string name="correct">correct</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="question_suggest">we are winner!!!!</string>
+    <string name="cheat_button">cheat</string>
+    <string name="warning_text">Are you sure to do this thing??</string>
+    <string name="show_answer_button">show answer</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+</resources>
