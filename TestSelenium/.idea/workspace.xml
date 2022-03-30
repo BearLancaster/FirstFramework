@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e269e79-75e7-41d7-af52-bef6192ede59" name="Default" comment="" />
+    <list default="true" id="0e269e79-75e7-41d7-af52-bef6192ede59" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Appium/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Appium/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Appium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Appium/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -36,12 +44,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1WNxXwBxz8PrVP7zt5mPGa2c4Cn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
@@ -131,6 +141,7 @@
       <workItem from="1583040849804" duration="738000" />
       <workItem from="1583065705828" duration="242000" />
       <workItem from="1641298375577" duration="65000" />
+      <workItem from="1648645190410" duration="82000" />
     </task>
     <servers />
   </component>
@@ -138,6 +149,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1648645251355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.-1080.2560.1400@0.0.1920.1040" timestamp="1648645251355" />
     <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1641298419585">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
